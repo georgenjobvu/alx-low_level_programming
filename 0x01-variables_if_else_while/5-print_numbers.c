@@ -2,16 +2,17 @@
 #include <stdlib.h>
 
 /**
- * main - print 0-9
+ * main - prints numbers
  *
- * Return : 0
+ * Return: 0
+ *
  */
 
 int main(void)
 {
 	int a = 0;
 
-	while (a < 10)
+	while (a <= 10)
 	{
 		printf("%d \n", a);
 		a++;
