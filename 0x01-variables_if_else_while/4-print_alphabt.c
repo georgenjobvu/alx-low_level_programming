@@ -4,7 +4,7 @@
 /**
  * main - returns a-z excluding e and q
  * 
- * Return: 0
+ * Return:0
  *
  */
 
