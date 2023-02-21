@@ -2,10 +2,10 @@
 #include <unistd.h>
 
 /**
- * _putchar -writes the character c to stdout
- * @c: the charater to print
+ * _putchar - writes the charecter c to stdout
+ * @c: The character to print
  *
- * Return: 1
+ * Return: On success 1
  *
  */
 
